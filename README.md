@@ -19,7 +19,7 @@ Este proyecto ha sido creado por gal1le0_cl.
 _____________
 - Inicie la aplicación.
 - Copie Client ID y pegalo en el primer hueco
-- Copie Client Secret y peguelo en el segundo huevo.
+- Copie Client Secret y peguelo en el segundo hueco.
 
 # Ya está!
 
